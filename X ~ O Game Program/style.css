@@ -4,6 +4,8 @@ body{
     font-family: serif;
     text-align: center;
     justify-content: center;
+    background-image: url(munna1.jpg);
+    background-position: 170vh;
 }
 
 h1{
